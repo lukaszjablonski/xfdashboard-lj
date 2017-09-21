@@ -1,0 +1,9 @@
+[Xfdashboard Theme]
+Name=xfdashboard-lj
+Comment=LJ theme for xfdashboard
+Style=xfdashboard-lj.css
+Layout=xfdashboard.xml;xfdashboard-secondary.xml
+Effects=effects.xml
+Author=Lukasz Jablonski (lukaszjablonski.github.io)
+Version=0.6.1
+Screenshot=screenshot-xfdashboard-lj.png
