@@ -1,2 +1,2 @@
 # xfdashboard-lj
-My theme for Xfdashboard 
+> Simple theme for Xfdashboard 
