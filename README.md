@@ -1,2 +1,4 @@
 # xfdashboard-lj
-> Simple theme for Xfdashboard 
+> Simple theme for Xfdashboard
+
+Just copy to: /usr/share/themes/
