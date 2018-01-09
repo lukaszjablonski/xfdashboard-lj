@@ -1,5 +1,5 @@
 # xfdashboard-lj
-> Simple theme for [xfdashboard](https://github.com/gmc-holle/xfdashboard)
+> Simple theme for [xfdashboard](http://goodies.xfce.org/projects/applications/xfdashboard/)
 
 ![Screenshoot](xfdashboard-1.0/screenshot-xfdashboard-lj.png?raw=true "Screenshoot")
 
